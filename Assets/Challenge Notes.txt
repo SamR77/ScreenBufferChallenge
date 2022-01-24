@@ -1,0 +1,10 @@
+
+In this playable demo the ship is limited to the edge of the screen, but it ends up with 1/2 the ship being off camera.
+
+GOAL: The goal is to add a buffer space to the ship so that when it reaches the edge of the screen the ship stays completely
+(or mostly inside the viewable area)
+
+* * * Note: For this challenge the screen should be set to 16:9 aspect ratio(not free aspect), your solution should work with other aspect ratios.
+
+Bonus 01: Add a reaction when the ship collides with objects
+Bonus 02: Add ground detection so that the ship will stop rotating and stay a certain amount above the ground plane(terrain)

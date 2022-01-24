@@ -1,0 +1,9 @@
+
+Code adjustments and scene layout by Sam Robichaud 
+
+Arwing Model Arwingby jbmayle: https://www.turbosquid.com/3d-models/starfox-arwing-obj-free/516643
+
+Basic Movement code & logic based on functionality by Mix and Jam: https://www.youtube.com/watch?v=JVbr7osMYTo
+
+
+
